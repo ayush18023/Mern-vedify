@@ -13,7 +13,6 @@ import ScrollToTop from './Components/ScrollToTop'
 import Checkout from './Checkout/Checkout';
 import Payment from './Checkout/Payment';
 import Myaccount from './Myaccount/Myaccount';
-import About from './About/About';
 
 function App() {
 
